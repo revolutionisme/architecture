@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T20:14:29.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="QE42TPeglOKi5r63_6zu" version="13.0.1" type="github"><diagram id="_wX_QlukZybuapenBqHP" name="Page-1">7VbbbtswDP2aPK6I48xtHpvbWiwrBuRh2F4GxWJsrbJoyHRuXz/Jlu04ToMM6DpsWAwE5iEpUdQ5hHv+JNl90CyNPyEH2Rv0+a7nT3uDwWgYmH8L7Esg8IYlEGnBS8hrgKU4gAP7Ds0Fh6wVSIiSRNoGQ1QKQmphTGvctsPWKNu7piyCDrAMmeyiXwSn2KFev984HkBEsds6qBwJq4IdkMWM4/YI8mc9f6IRqXxLdhOQtndVX8q8+QveujANiq5JeJ7J9GP4bYqrw9NI+o8PYfr13cjVRvvqwMDN+Z2JmmKMUDE5a9CxxlxxsKv2jdXELBBTA3oG/AFEe3eZLCc0UEyJdN5yT7vRi0dxUIa5DuFC/RUlmI6ALsQFdcMNUQETIL03eRokI7Fp18EcZaI6rumqeXGN/YUmu3U3TOZup/uEHVAZbPm07NwA5iSFgknNaNvmNSqaoERdxPjmmdsKxpFmXEDjU6jsHWWk8RmOEtbFzy4kpDy3EGdZXF/qBjQJI4IFW4H8jJkgYcr1p4ngvOBAFXAvRWQdKyTCxDiYA0JTE+j2vW9jQbBMWXGjWzMu3LkcUbzqnBX9bE5mwoWKjOVbK2ap9SS7yE6bG7bNhjepRp6H9BjaEsepLl/aMZnKauLZ2mF3mXpdqlQJvpOzm2fenbO3zXSooPhoLtQD49XZdddh11+u6eBKTd/+SU0Hna4vWLLirDcwHr+g8jxXYaGbNxF4nXAi8Fr4Vwm81vGpwMny4KK6j5U8OFGy3ZJlaXnatdjZOs6LWUPJD6dmY56Tsyx6/X1ddfhVpD0ctqU96HelHZyRdvC7lH37n2P/Gsfej96MY8ZsPi4L39EXuj/7CQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-23T20:21:28.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="I_k5qAG0G_HnnCgAF91w" version="13.0.1" type="github">
+  <diagram id="_wX_QlukZybuapenBqHP" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kElpKcZDobzN9l3IHcpY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kElpKcZDobzN9l3IHcpY-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kElpKcZDobzN9l3IHcpY-1" value="Amazon SNS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sns;" parent="1" vertex="1">
+          <mxGeometry x="270" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kElpKcZDobzN9l3IHcpY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="kElpKcZDobzN9l3IHcpY-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kElpKcZDobzN9l3IHcpY-7" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Perform metadata transfer lambda&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda_function;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="590" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wQH-54FuVgvJ-aLktqer-3" value="Read from CPS Lambda" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda_function;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wQH-54FuVgvJ-aLktqer-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wQH-54FuVgvJ-aLktqer-4" target="kElpKcZDobzN9l3IHcpY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wQH-54FuVgvJ-aLktqer-4" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.external_data_resource;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="79" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wQH-54FuVgvJ-aLktqer-6" value="CPS System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="29.5" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
