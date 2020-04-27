@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-27T19:26:36.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="K5tKAz_6lht86Djfxq5z" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-27T19:27:42.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="2BY1Q4g4djxuJSadew8O" version="13.0.1" type="github">
   <diagram id="_wX_QlukZybuapenBqHP" name="Page-1">
     <mxGraphModel dx="946" dy="1214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="600" math="0" shadow="0">
       <root>
@@ -145,10 +145,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wQH-54FuVgvJ-aLktqer-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/checked-www-domain-window-128.png;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1506" y="-238" width="128" height="128" as="geometry" />
+          <mxGeometry x="1513" y="-224" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="wQH-54FuVgvJ-aLktqer-42" value="Focus JSON API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1525" y="-170" width="90" height="20" as="geometry" />
+          <mxGeometry x="1525" y="-140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wQH-54FuVgvJ-aLktqer-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="wQH-54FuVgvJ-aLktqer-44" target="wQH-54FuVgvJ-aLktqer-23">
           <mxGeometry relative="1" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry x="1230" y="-190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wQH-54FuVgvJ-aLktqer-59" value="Other Services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="-120" width="80" height="20" as="geometry" />
+          <mxGeometry x="1230" y="-130" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
