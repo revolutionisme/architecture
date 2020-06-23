@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T20:30:59.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="U6ZPaa-doxgkPzzjpY2O" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-23T20:31:25.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="Y3Yw2jxrqXPAWqJ8IHpW" version="13.3.0" type="github">
   <diagram id="En8DPw2VWvYYrCO0BwaC" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -143,9 +143,9 @@
         <mxCell id="Og8cY-8ch1CE3vDyTHSe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kpLQ-KXEZiZvVzIevv52-122" target="Og8cY-8ch1CE3vDyTHSe-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Og8cY-8ch1CE3vDyTHSe-21" value="Static Web Page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Og8cY-8ch1CE3vDyTHSe-20">
+        <mxCell id="Og8cY-8ch1CE3vDyTHSe-21" value="Static Web Page Serving" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Og8cY-8ch1CE3vDyTHSe-20">
           <mxGeometry x="0.0005" y="32" relative="1" as="geometry">
-            <mxPoint x="-32" y="29" as="offset" />
+            <mxPoint x="17.200000000000003" y="-11.329999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
