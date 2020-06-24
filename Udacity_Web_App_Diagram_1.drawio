@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T07:44:39.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="AimYxzs8awOKOlpwoNZJ" version="13.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-24T07:48:52.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="KzZg7B61jPJUywGo7X1H" version="13.3.1" type="github">
   <diagram id="nHtHo7IPAPnNrSM1sG2S" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,6 +163,16 @@
         <UserObject label="us-east-1" lucidchartObjectId="ZyE43Vn4hEtU" id="rEOZC8QOA6Du8v14Qq1T-2">
           <mxCell style="html=1;whiteSpace=wrap;;fontSize=9;fontColor=#666666;align=left;spacing=3;verticalAlign=middle;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;" vertex="1" parent="QVgjg6RMbLNZTQpQtQ4s-15">
             <mxGeometry x="37" y="16" width="43" height="11" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;us-east-1a&lt;/font&gt;" lucidchartObjectId="ZyE43Vn4hEtU" id="rEOZC8QOA6Du8v14Qq1T-3">
+          <mxCell style="html=1;whiteSpace=wrap;;fontSize=9;fontColor=#666666;align=left;spacing=3;verticalAlign=middle;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;" vertex="1" parent="QVgjg6RMbLNZTQpQtQ4s-15">
+            <mxGeometry x="194.5" y="99" width="65.5" height="11" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 12px&quot;&gt;us-east-1b&lt;/span&gt;" lucidchartObjectId="ZyE43Vn4hEtU" id="rEOZC8QOA6Du8v14Qq1T-4">
+          <mxCell style="html=1;whiteSpace=wrap;;fontSize=9;fontColor=#666666;align=left;spacing=3;verticalAlign=middle;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;" vertex="1" parent="QVgjg6RMbLNZTQpQtQ4s-15">
+            <mxGeometry x="537" y="99" width="63" height="11" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="S3 Bucket" lucidchartObjectId="ZyE4INKm.Qgx" id="QVgjg6RMbLNZTQpQtQ4s-21">
@@ -487,19 +497,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rEOZC8QOA6Du8v14Qq1T-1" value="us-east-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="148" width="70" height="20" as="geometry" />
-        </mxCell>
-        <UserObject label="us-east-1a" lucidchartObjectId="ZyE43Vn4hEtU" id="rEOZC8QOA6Du8v14Qq1T-3">
-          <mxCell style="html=1;whiteSpace=wrap;;fontSize=9;fontColor=#666666;align=left;spacing=3;verticalAlign=middle;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;" vertex="1" parent="1">
-            <mxGeometry x="327.5" y="292" width="60" height="11" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="us-east-1b" lucidchartObjectId="ZyE43Vn4hEtU" id="rEOZC8QOA6Du8v14Qq1T-4">
-          <mxCell style="html=1;whiteSpace=wrap;;fontSize=9;fontColor=#666666;align=left;spacing=3;verticalAlign=middle;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;" vertex="1" parent="1">
-            <mxGeometry x="677" y="292" width="60" height="11" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="rEOZC8QOA6Du8v14Qq1T-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rEOZC8QOA6Du8v14Qq1T-6" target="lH00LEIJT2bp-XvwGnt1-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
